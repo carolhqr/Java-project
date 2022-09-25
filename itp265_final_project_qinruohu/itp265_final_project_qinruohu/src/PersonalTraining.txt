@@ -1,0 +1,5 @@
+Type,Name,Time,Instructor,Description
+PersonalTraining,Weight Training,Monday 10:00-11:00,Robert,Strength training that uses weights for resistance
+PersonalTraining,Pilates,Wednesday 11:00-12:00,Catherine,A method of exercise that consists of low-impact flexibility and muscle strength  
+PersonalTraining,Weight Training,Thursday 14:00-15:00,Robert,Strength training that uses weights for resistance
+PersonalTraining,Yoga Sculpt,Friday 13:00-14:00,Catherine,A class that incorporates hand weights and high-intensity cardio bursts for a maximum calorie-buring effect

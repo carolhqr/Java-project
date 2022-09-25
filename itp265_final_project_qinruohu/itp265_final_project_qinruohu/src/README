@@ -1,0 +1,14 @@
+Progress of final project
+
+Thursday 4/30 Set up Fitness Class Inheritance Hierarchy along with associated enums. Reading and writing from class files done. 
+              Need to think about how member is created initially: create them as members for now.
+Saturday 5/2 Set up Person hierarchy: Paid Member and Drop in customer
+	 		 Instructor: hard code
+Sunday 5/3 Login system implemented. Reading from members file done.
+			 Question: where to set the membership of customer
+Monday 5/4 Logout system implemented. Add and drop class implemented. 
+
+Tuesday 5/5 Customer menu mainly implemented.
+            Implemented instructor class. Need to work on calculate cost. 
+Friday 5/8 Instructor menu functionality implemented. Calculate billing implemented. Rent a locker interface implemented. 
+           Project almost finished
